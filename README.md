@@ -81,7 +81,7 @@ LinkedIn: https://www.linkedin.com/in/samuel-onyedikachi/
 
 GitHub: https://github.com/SamuelOnyedikachi
 
-X / Twitter: https://x.com/Psalmuel00001
+X / Twitter: https://x.com/Psalmc0des
 
 Email: samuelonyedikachi450@gmail.com
 
