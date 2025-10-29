@@ -10,7 +10,7 @@ I craft dynamic, responsive, and scalable web interfaces that merge performance 
 - 🎨 Tailwind CSS
 - 🧰 JavaScript, HTML5, CSS3
 - 🗂️ Git & GitHub
-- 🧠 Learning: Node.js, TypeScript
+- 🧠 Learning: Node.js, TypeScript Express, Twig, VueJS
 
 
  🚀 Featured Project
