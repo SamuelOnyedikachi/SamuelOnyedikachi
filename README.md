@@ -16,7 +16,7 @@ Every line of code I write aims to create software that is fast, intuitive, and 
 
 🗂️ Git & GitHub
 
-🧠 Node.js, TypeScript, Express, Twig, VueJS Next.js
+🧠 Node.js, TypeScript, Express, Twig, VueJS, Next.js
 
 🚀 Featured Projects
 1. Bumasel.com
