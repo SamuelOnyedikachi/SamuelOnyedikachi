@@ -1,88 +1,134 @@
-👋 Hello, I'm Samuel Onyedikachi
+# Hi, I'm Samuel Onyedikachi 👋
 
-I’m passionate about crafting intuitive, performant, and impactful digital experiences through modern software development. My work focuses on building dynamic, responsive, and scalable web interfaces that merge aesthetic precision with functionality.
+**Software Developer · Founder · Product Builder**
 
-With a strong foundation in JavaScript, HTML5, and CSS3, I specialize in creating rich user experiences using React.js and Tailwind CSS. My workflow is powered by Git and GitHub, ensuring clean version control and collaborative development. I’m also expanding my skillset into TypeScript, Node.js, and backend integration to bridge into full-stack development.
+I build intuitive, performant, and scalable digital experiences using modern web technologies — with a relentless focus on crafting production-ready interfaces that balance aesthetic precision, performance, and real-world usability.
 
-Every line of code I write aims to create software that is fast, intuitive, and built to last.
+---
 
-🛠️ Tech Stack
+## 🚀 About Me
 
-⚛️ React.js
+I'm a **Full-Stack Developer** driven by a product-first mindset. I don't just write code — I build software that solves real problems, scales gracefully, and feels effortless to use.
 
-🎨 Tailwind CSS
+My work is grounded in four core principles:
 
-🧰 JavaScript, HTML5, CSS3
+- 🎨 **Clean UI/UX** — interfaces that feel native and intuitive
+- ⚡ **Performance** — fast by design, not as an afterthought
+- 🏗️ **Scalable architecture** — built to grow, not to be rewritten
+- 🧹 **Maintainable codebases** — readable, testable, and team-friendly
 
-🗂️ Git & GitHub
+> *Product thinking over code dumping. Systems over hacks. Simplicity over complexity. Execution over noise.*
 
-🧠 Node.js, TypeScript, Express, Twig, VueJS, Next.js
+---
 
-🚀 Featured Projects
-1. Bumasel.com
+## 🧠 Domains I Work In
 
-Live Project: https://bumasel.com
+| Area | Examples |
+|---|---|
+| Web Applications | SPAs, SSR apps, PWAs |
+| Mobile Applications | React Native (Expo) |
+| SaaS Platforms | Multi-tenant systems, subscription flows |
+| Dashboard Interfaces | Admin panels, analytics UIs |
+| AI-Powered Interfaces | LLM-integrated frontends |
+| Landing Pages | Product & institutional sites |
+| Enterprise Systems | Scalable, role-based platforms |
 
-Key Contributions:
+---
 
-Built and styled dynamic UI components including navigation, product displays, and forms.
+## 🛠️ Tech Stack
 
-Optimized for mobile and desktop responsiveness.
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Integrated Git and GitHub for efficient version control and collaboration.
+### Backend & Integration
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Actively contributed to design iterations and usability enhancements.
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-2. TicketMaster - React Version
+---
 
-Live Project: https://ticket-master-react.netlify.app/
+## 📈 GitHub Stats
 
-GitHub Repo: https://github.com/SamuelOnyedikachi/ticket-master-react
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelOnyedikachi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samuel's GitHub Stats" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOnyedikachi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</p>
 
-Key Contributions:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelOnyedikachi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-Developed React.js frontend with interactive ticket dashboards.
+---
 
-Used Tailwind CSS for responsive, modern UI.
+## 📂 What You'll Find on My GitHub
 
-Implemented React Router v6 for smooth navigation.
+Every repository here reflects real product thinking — not tutorial code.
 
-Enhanced user experience with dynamic ticket creation, deletion, and filtering.
+- ✅ Production-ready frontend & mobile applications
+- ✅ Scalable UI architectures
+- ✅ Multi-tenant systems
+- ✅ SaaS product foundations
+- ✅ Clean, component-driven interfaces
 
-3. Backend Project: Country Currency & Exchange API
+---
 
-GitHub Repo: https://github.com/SamuelOnyedikachi/country-currency-api
+## 🎯 Current Focus
 
-Key Contributions:
+- 🔨 Building scalable SaaS applications
+- 🏢 Multi-tenant systems (e.g. Church Attendance Platform)
+- ⚛️ Advanced React & Next.js architecture
+- 🚀 Performance optimization & full-stack depth
 
-Integrated external APIs for country data and currency exchange.
+---
 
-Computed estimated GDP for each country dynamically.
+## 🤝 Open To
 
-Implemented MySQL database caching and CRUD endpoints.
+- **Frontend / Full-Stack Developer Roles**
+- **Startup Collaborations**
+- **SaaS Product Development**
+- **Freelance Opportunities**
+- **Long-term Engineering Partnerships**
 
-Generated summary images of top countries using Jimp.
+If you're building something meaningful, let's talk.
 
-4. Other Frontend Projects
+---
 
-Portfolio Website: https://github.com/SamuelOnyedikachi/portfolio
+## 📫 Let's Connect
 
-VueJS Stage 2 Ticket App: https://github.com/SamuelOnyedikachi/ticket-master-vue
+<p>
+  <a href="https://linkedin.com/in/samuel-onyedikachi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SamuelOnyedikachi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Psalmc0des" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:samuelonyedikachi450@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-Twig Version Ticket App: https://github.com/SamuelOnyedikachi/ticket-master-twig
+---
 
-📈 GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=SamuelOnyedikachi&show_icons=true&theme=radical
-
-🤝 Let's Connect
-
-LinkedIn: https://www.linkedin.com/in/samuel-onyedikachi/
-
-GitHub: https://github.com/SamuelOnyedikachi
-
-X / Twitter: https://x.com/Psalmc0des
-
-Email: samuelonyedikachi450@gmail.com
-
-“Good software is invisible. Great software is unforgettable.”
+<p align="center">
+  <i>"Good software is invisible. Great software is unforgettable."</i>
+</p>
