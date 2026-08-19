@@ -4,7 +4,7 @@
 
 I design and build **scalable web, mobile, backend, and cloud-powered applications** that solve real-world problems.
 
-My work spans the full software development lifecycle — from crafting intuitive user experiences and building robust APIs to designing databases, deploying cloud infrastructure, and turning ideas into production-ready products.
+My work spans the full software development lifecycle from crafting intuitive user experiences and building robust APIs to designing databases, deploying cloud infrastructure, and turning ideas into production-ready products.
 
 I care about more than making software *work*. I focus on making it **scalable, maintainable, performant, secure, and genuinely useful**.
 
@@ -14,7 +14,7 @@ I care about more than making software *work*. I focus on making it **scalable, 
 
 I'm a **Full-Stack & Mobile Software Developer** with a product-first approach to engineering.
 
-I enjoy taking ideas from concept to production — designing the architecture, building the frontend and mobile experience, developing backend services and APIs, managing data, and deploying reliable infrastructure.
+I enjoy taking ideas from concept to production designing the architecture, building the frontend and mobile experience, developing backend services and APIs, managing data, and deploying reliable infrastructure.
 
 My approach to software engineering is built around four principles:
 
@@ -51,7 +51,7 @@ My approach to software engineering is built around four principles:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
